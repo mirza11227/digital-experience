@@ -1,0 +1,67 @@
+html, body{
+    height: 100%;
+}
+
+body{
+    background-image: url(./img/perkament.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+*{
+    text-align: center;
+}
+
+div{
+    background-color: blanchedalmond;
+    width: 40vw;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+h1{
+    color:#850001;
+    text-decoration: underline;
+    font-weight: 400;
+    font-style: normal;
+}
+
+p{
+  color: #4f5448;
+}
+
+.cinzel-decorative-regular {
+  font-family: "Cinzel Decorative", serif;}
+
+.cinzel-decorative-bold {
+  font-family: "Cinzel Decorative", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.arima {
+  font-family: "Arima", system-ui;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+img{
+    width:20vw ;
+}
+
+.red{
+    color: #a96657;
+    font-weight: 300;
+}
+
+.green{
+    color: #768a55;
+    font-weight: 700;
+}
+
+#first:first-letter{
+    font-size: 300% ;
+    color:#850001;
+ font-family: "Cinzel Decorative", serif;
+}
